@@ -13,6 +13,7 @@ function App() {
         <p>Hello GIT</p>
         <p>ADD NEW page</p>
         <p>ADD NEW page 1</p>
+        <p>ADD NEW page 2</p>
         <a
            className="App-link"
           href="https://reactjs.org"
